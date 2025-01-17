@@ -2,7 +2,7 @@
 
 ---
 ### Описание
-Источник для сбора информации: `https://www.truckscout24.de/transporter/gebraucht/kuehl-iso-frischdienst/renault`
+Источник для сбора информации: <https://www.truckscout24.de/transporter/gebraucht/kuehl-iso-frischdienst/renault>
 
 Скрипт создает папку data и собирает данные по случайному объявлению с каждой страницы источника, где:
 В файле data.json должна быть информация по объявлениям в следующем виде:
